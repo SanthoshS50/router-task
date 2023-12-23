@@ -75,7 +75,6 @@ function All() {
         </div>
       </div>
     </div>
-    
   </div>
 </div>
 
