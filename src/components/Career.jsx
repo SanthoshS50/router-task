@@ -29,18 +29,6 @@ function Career() {
     </div>
     <div className="col">
       <div className="card h-100">
-        <img src="https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Software-Developer-vs-Software-Engineer.jpg" className="card-img-top" alt="..."/>
-        <div className="card-body">
-          <h5 className="card-title">Software Developer vs Software Engineer: Who is More Important in 2024?</h5>
-          <p className="card-text">In the tech world, two roles play an important role in deciding our digital life,<span className="read-more"><strong>Read more</strong></span></p>
-        </div>
-        <div className="card-footer">
-          <small className="text-body-secondary">04 June 2023</small>
-        </div>
-      </div>
-    </div>
-    <div className="col">
-      <div className="card h-100">
         <img src="https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp" className="card-img-top" alt="..."/>
         <div className="card-body">
           <h5 className="card-title">Top IT Jobs for Commerce Students: A Lucrative Career Path</h5>
@@ -75,8 +63,6 @@ function Career() {
         </div>
       </div>
     </div>
-
-
 
   </div>
 </div>

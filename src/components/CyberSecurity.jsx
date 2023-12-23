@@ -27,54 +27,7 @@ function CyberSecurity() {
         </div>
       </div>
     </div>
-    <div className="col">
-      <div className="card h-100">
-        <img src="https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif" className="card-img-top" alt="..."/>
-        <div className="card-body">
-          <h5 className="card-title">Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?</h5>
-          <p className="card-text">Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well,<span className="read-more"><strong>Read more</strong></span></p>
-        </div>
-        <div className="card-footer">
-          <small className="text-body-secondary">01 January 2024</small>
-        </div>
-      </div>
-    </div>
-    <div className="col">
-      <div className="card h-100">
-        <img src="https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png" className="card-img-top" alt="..."/>
-        <div className="card-body">
-          <h5 className="card-title">Cybersecurity Vs Ethical Hacking: Top 10 Differences</h5>
-          <p className="card-text">Cybersecurity & Ethical hacking and have been key in making sure that your data online<span className="read-more"><strong>Read more</strong></span></p>
-        </div>
-        <div className="card-footer">
-          <small className="text-body-secondary">01 January 2024</small>
-        </div>
-      </div>
-    </div>
-    <div className="col">
-      <div className="card h-100">
-        <img src="https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif" className="card-img-top" alt="..."/>
-        <div className="card-body">
-          <h5 className="card-title">What is Cybersecurity? Importance and its uses & the growing challenges in 2023!</h5>
-          <p className="card-text">Look around today, you will witness that we are more reliant on technology and devices<span className="read-more"><strong>Read more</strong></span></p>
-        </div>
-        <div className="card-footer">
-          <small className="text-body-secondary">01 January 2024</small>
-        </div>
-      </div>
-    </div>
-    <div className="col">
-      <div className="card h-100">
-        <img src="https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact.jpg" className="card-img-top" alt="..."/>
-        <div className="card-body">
-          <h5 className="card-title">Top 7 Cyber Security Attacks in Real Life</h5>
-          <p className="card-text">Cyber security attacks are the type of actions that are designed to destroy, steal, modify,<span className="read-more"><strong>Read more</strong></span></p>
-        </div>
-        <div className="card-footer">
-          <small className="text-body-secondary">01 January 2024</small>
-        </div>
-      </div>
-    </div>
+    
   </div>
 </div>
 }

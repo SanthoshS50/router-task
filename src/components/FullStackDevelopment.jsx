@@ -65,18 +65,9 @@ function FullStackDevelopment() {
         </div>
       </div>
     </div>
-    <div className="col">
-      <div className="card h-100">
-        <img src="https://www.guvi.in/blog/wp-content/uploads/2022/06/1.-Amazon-fsd-salary-2048x1072.png" className="card-img-top" alt="..."/>
-        <div className="card-body">
-          <h5 className="card-title">Amazon Full Stack Developer Salaries In India</h5>
-          <p className="card-text">Full Stack Developer salaries at Amazon range from ₹ 4.5 Lakhs to ₹ 46 Lakhs <span className="read-more"><strong>Read more</strong></span></p>
-        </div>
-        <div className="card-footer">
-          <small className="text-body-secondary">29 September 2023</small>
-        </div>
-      </div>
-    </div>
+  
+
+  
   </div>
 </div>
 }
