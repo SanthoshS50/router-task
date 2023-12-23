@@ -27,6 +27,18 @@ function CyberSecurity() {
         </div>
       </div>
     </div>
+    <div className="col">
+      <div className="card h-100">
+        <img src="https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Install-Miro-on-Windows-A-2-Step-Comprehensive-Guide.webp" className="card-img-top" alt="..."/>
+        <div className="card-body">
+          <h5 className="card-title">Install Miro on Windows: A 2-Step Comprehensive Guide</h5>
+          <p className="card-text">Post-Covid, everything is becoming digital and even companies prefer remote working as it helps them<span className="read-more"><strong>Read more</strong></span></p>
+        </div>
+        <div className="card-footer">
+          <small className="text-body-secondary">01 January 2024</small>
+        </div>
+      </div>
+    </div>
     
   </div>
 </div>

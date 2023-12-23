@@ -41,6 +41,18 @@ function All() {
     </div>
     <div className="col">
       <div className="card h-100">
+        <img src="https://www.guvi.in/blog/wp-content/uploads/2023/11/Featured-Image-2048x1072.webp" className="card-img-top" alt="..."/>
+        <div className="card-body">
+          <h5 className="card-title">9 Best Product-Based Companies for Project Management</h5>
+          <p className="card-text">In today’s tech-driven world, the demand for project managers is higher than before. The workload<span className="read-more"><strong>Read more</strong></span></p>
+        </div>
+        <div className="card-footer">
+          <small className="text-body-secondary">04 June 2023</small>
+        </div>
+      </div>
+    </div>
+    <div className="col">
+      <div className="card h-100">
         <img src="https://www.guvi.in/blog/wp-content/uploads/2023/12/how_to_download_an_image_from_figma_.webp" className="card-img-top" alt="..."/>
         <div className="card-body">
           <h5 className="card-title">How to Download an Image from Figma? A 5-Step Guide to Help You Out</h5>

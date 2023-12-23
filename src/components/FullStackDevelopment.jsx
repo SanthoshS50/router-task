@@ -39,8 +39,6 @@ function FullStackDevelopment() {
         </div>
       </div>
     </div>
-
-
     <div className="col">
       <div className="card h-100">
         <img src="https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-Books-to-Learn-Full-Stack-Development.webp" className="card-img-top" alt="..."/>
@@ -65,8 +63,18 @@ function FullStackDevelopment() {
         </div>
       </div>
     </div>
-  
-
+    <div className="col">
+      <div className="card h-100">
+        <img src="https://www.guvi.in/blog/wp-content/uploads/2023/10/Featured-Image-top-product-based-companies-for-full-stack-developers.webp" className="card-img-top" alt="..."/>
+        <div className="card-body">
+          <h5 className="card-title">Top 10 Product-Based Companies for Full-Stack Developers [2024]</h5>
+          <p className="card-text">In the dynamic landscape of technology, full-stack developers are the architects of the digital world,<span className="read-more"><strong>Read more</strong></span></p>
+        </div>
+        <div className="card-footer">
+          <small className="text-body-secondary">29 September 2023</small>
+        </div>
+      </div>
+    </div>
   
   </div>
 </div>

@@ -63,6 +63,18 @@ function Career() {
         </div>
       </div>
     </div>
+    <div className="col">
+      <div className="card h-100">
+        <img src="https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Different-Roles-in-a-Product-Based-Company.webp" className="card-img-top" alt="..."/>
+        <div className="card-body">
+          <h5 className="card-title">Mechanical Engineering Resume: 9 Important Things To Look Out For</h5>
+          <p className="card-text">With the development of technology, most of us started forgetting about mechanical engineering which pioneered<span className="read-more"><strong>Read more</strong></span></p>
+        </div>
+        <div className="card-footer">
+          <small className="text-body-secondary">04 June 2023</small>
+        </div>
+      </div>
+    </div>
 
   </div>
 </div>
